@@ -1,4 +1,4 @@
-# Flex Message Examples
+# Examples
 
 |                Telemed Start                |                     More Info                    |                     About Us                     |                    Health Tip                    |
 | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
@@ -12,18 +12,7 @@
 | [JSON](./thai-schedule.json) | [JSON](./announcements.json) |
 
 
-
-
-## How to Use
-
-1. Copy the JSON from the `content` field.
-2. Test it using the [Flex Message Simulator](https://developers.line.biz/flex-simulator/).
-3. Connect the application to the LINE webhook for testing.
-
-
-
-
-## Architecture & Webhook Flow
+## Architecture
 
 ```mermaid
 flowchart TD
